@@ -11,7 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\Tarefy.Communication\Tarefy.Communication.csproj" />
+    <ProjectReference Include="..\Tarefy.Services\Tarefy.Services.csproj" />
   </ItemGroup>
 
 </Project>

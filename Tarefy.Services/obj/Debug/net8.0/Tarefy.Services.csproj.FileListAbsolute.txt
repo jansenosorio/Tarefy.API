@@ -1,0 +1,16 @@
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\bin\Debug\net8.0\Tarefy.Services.deps.json
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\bin\Debug\net8.0\Tarefy.Services.dll
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\bin\Debug\net8.0\Tarefy.Services.pdb
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\bin\Debug\net8.0\Tarefy.Communication.dll
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\bin\Debug\net8.0\Tarefy.Communication.pdb
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\Tarefy.Services.csproj.AssemblyReference.cache
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\Tarefy.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\Tarefy.Services.AssemblyInfoInputs.cache
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\Tarefy.Services.AssemblyInfo.cs
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\Tarefy.Services.csproj.CoreCompileInputs.cache
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\Tarefy.Services.sourcelink.json
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\Tarefy.S.F7437383.Up2Date
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\Tarefy.Services.dll
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\refint\Tarefy.Services.dll
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\Tarefy.Services.pdb
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Services\obj\Debug\net8.0\ref\Tarefy.Services.dll

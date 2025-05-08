@@ -7,8 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tarefy.API\Tarefy.API.csproj" />
-    <ProjectReference Include="..\Tarefy.Services\Tarefy.Services.csproj" />
+    <Folder Include="Errors\" />
   </ItemGroup>
 
 </Project>

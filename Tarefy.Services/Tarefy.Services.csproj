@@ -7,7 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tarefy.API\Tarefy.API.csproj" />
+    <Folder Include="UseCases\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tarefy.Communication\Tarefy.Communication.csproj" />
   </ItemGroup>
 
 </Project>

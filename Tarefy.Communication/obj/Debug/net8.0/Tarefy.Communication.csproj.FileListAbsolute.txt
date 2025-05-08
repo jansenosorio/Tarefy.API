@@ -1,0 +1,12 @@
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\bin\Debug\net8.0\Tarefy.Communication.deps.json
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\bin\Debug\net8.0\Tarefy.Communication.dll
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\bin\Debug\net8.0\Tarefy.Communication.pdb
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\obj\Debug\net8.0\Tarefy.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\obj\Debug\net8.0\Tarefy.Communication.AssemblyInfoInputs.cache
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\obj\Debug\net8.0\Tarefy.Communication.AssemblyInfo.cs
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\obj\Debug\net8.0\Tarefy.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\obj\Debug\net8.0\Tarefy.Communication.sourcelink.json
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\obj\Debug\net8.0\Tarefy.Communication.dll
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\obj\Debug\net8.0\refint\Tarefy.Communication.dll
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\obj\Debug\net8.0\Tarefy.Communication.pdb
+C:\Users\Jansen\Documents\dotnet\TarefyV2\Tarefy.Communication\obj\Debug\net8.0\ref\Tarefy.Communication.dll
