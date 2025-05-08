@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarefy.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d27c6257e92c31278c306958ddfbdd4b338ddcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c30b2fdd64c70727090512d197af88009e1f0b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarefy.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarefy.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
