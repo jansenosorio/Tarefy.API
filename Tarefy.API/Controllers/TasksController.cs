@@ -3,6 +3,7 @@ using Tarefy.Communication.Requests;
 using Tarefy.Communication.Responses;
 using Tarefy.Services.UseCases.Create;
 using Tarefy.Services.UseCases.Get;
+using Tarefy.Services.UseCases.Update;
 
 namespace Tarefy.API.Controllers
 {
@@ -44,6 +45,25 @@ namespace Tarefy.API.Controllers
             }
 
             return Ok(response);    
+        }
+
+        [HttpPut]
+        [ProducesResponseType(typeof(ResponseCreateTask), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public IActionResult UpdateTask([FromBody] RequestUpdateTaskByIdJson request)
+        {
+            var useCase = new GetTaskByIdUseCase();
+            var response = useCase.Execute(request.Id);
+            if (response == null)
+            {
+                return NotFound();
+            }
+            
+            var useCaseUpdateById = new UpdateTaskByIdUseCase();
+            var updatedResponse = useCaseUpdateById.Execute(request);
+
+            return Ok(updatedResponse);
         }
     }
 }
