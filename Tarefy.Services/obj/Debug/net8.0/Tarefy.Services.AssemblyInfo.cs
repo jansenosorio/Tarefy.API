@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarefy.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8c7aaef7ed40b4fab0c6fe23b88f41a5f0710e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+859534085d5c7c420d0fb088e87f9672f1cda0d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarefy.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarefy.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
