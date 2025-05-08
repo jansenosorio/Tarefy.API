@@ -5,6 +5,10 @@ VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefy.API", "Tarefy.API.csproj", "{EC3F14F4-C52B-4A8A-ACB2-4730E180E054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefy.Communication", "..\Tarefy.Communication\Tarefy.Communication.csproj", "{D829750A-7242-4405-A526-E6CA2A3FDC8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarefy.Services", "..\Tarefy.Services\Tarefy.Services.csproj", "{452FB542-B010-4817-A6D8-99B46AFB8FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EC3F14F4-C52B-4A8A-ACB2-4730E180E054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3F14F4-C52B-4A8A-ACB2-4730E180E054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3F14F4-C52B-4A8A-ACB2-4730E180E054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D829750A-7242-4405-A526-E6CA2A3FDC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D829750A-7242-4405-A526-E6CA2A3FDC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D829750A-7242-4405-A526-E6CA2A3FDC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D829750A-7242-4405-A526-E6CA2A3FDC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452FB542-B010-4817-A6D8-99B46AFB8FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452FB542-B010-4817-A6D8-99B46AFB8FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452FB542-B010-4817-A6D8-99B46AFB8FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452FB542-B010-4817-A6D8-99B46AFB8FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
