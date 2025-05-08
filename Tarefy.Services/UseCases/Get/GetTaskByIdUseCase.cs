@@ -7,6 +7,11 @@ namespace Tarefy.Services.UseCases.Get
     {
         public ResponseCreateTask Execute(int id)
         {
+            if (id == 9999)
+            {
+                return null;
+            }
+
             var response = new ResponseCreateTask();
             {
                 response.Id = id;

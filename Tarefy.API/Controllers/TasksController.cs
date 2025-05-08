@@ -37,6 +37,12 @@ namespace Tarefy.API.Controllers
         {
             var useCase = new GetTaskByIdUseCase();
             var response = useCase.Execute(id);
+
+            if (response == null)
+            {
+                return NotFound();
+            }
+
             return Ok(response);
         }
     }
